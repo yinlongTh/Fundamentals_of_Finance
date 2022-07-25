@@ -26,8 +26,10 @@ In 't' years
 - Compound : Principal*(1 + r)^t
 
 #### APR {Annual Percentage Rate}
+<pre>
 Example : 22.9% a year (22.9/365 = 0.06274% daily periodic rate)
 If we take 0.06274% make compound interest for a year -> actually 25.7% a year #Called Effective APR
+</pre>
 
 #### Payday load
 : Bad Choice!! Very high interest "Usury"

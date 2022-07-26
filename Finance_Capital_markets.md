@@ -164,9 +164,76 @@ Let r = (1+i)^-1, pm = L*(1-r)/(r-r^(n+1))
 : Deed, Title, Escrow
 ________________________________________________
 ## Inflation
+Terminology
+<pre>
+- CPI : Comsumer Price Index (a basket people tend to use of goods and services)
+- Price Inflation : Goods & Servives
+- Monetary Inflation : Increase in money supply
+</pre>
+
+#### Stagflation
+When irregular inflation happened, The supply goes down, price goes up, ...
+- Shock the system
+- Example : Fuel cost
+
+#### Hyperinflation
+The goverment printed tons of money, Prices goes up, Print more, ...
+- Money values less and less
+
+#### Real and Nominal Return
+Example
+<pre>
+Year ago   Now 
+ 100$      110$
+ with 2% inflation
+ 
+ <strong>Real Return</strong> : (110-102)/102 *100 = 7.8% 
+</pre>
+
+#### Economics of a Cupcake Factory Example
+Condition
+<pre>
+Factory : 1 m$ to build / 500k yearly operate / 2$ each cupcake (1$ making) / 1m cupcakes each year
+
+Rev : 2m $ per year
+Cost Of Goods : 1m $ per year
+Gross Profit : 2m - 1m = 1m $
+Overhead : 500k $
+Operating Profit (Final) : 1m - 500 k = 500k $ #Assume we have no tax and others
+
+Capacity Utilization = (1m Sold / 1m made) * 100 = 100%
+Return on Assest = (Operating Income / Innitial Investment) * 100 = 500k / 1m build = 50%
+</pre>
+
+#### Inflation Deflation and Capacity Utilization
+Capacity Utilization drives the Inflation and Deflation
+<pre>
+Capacity Utilization up, Price up, Inflation up
+</pre>
+
+#### Obama Stimulus Plan
+<pre>
+Very low Capacity Utilization when the country has a lot of supply : Demand Shocked
+The goverment buys some of those extra capacity.
+Happened to the US after WWII
+</pre>
+
+#### Deflation despite Increase in money supply
+People are not willing to use money to consume even they have money
+
+#### Deflationary Spiral
+When All the things go down and looped
+
+<pre>
+Employment Down -> Demand Down -> Supply, Price Down -> Profit Down -> Employment Down
+</pre>
 
 ________________________________________________
 ## Taxes
+
+#### Personal Taxes
+
+
 
 ________________________________________________
 ## Accounting and financial statements

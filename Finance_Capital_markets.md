@@ -252,7 +252,9 @@ ________________________________________________
 ## Taxes :clipboard:
 
 ### Personal Taxes
+#### US Income Tax Rates
 
+![3 1 5 t1](https://user-images.githubusercontent.com/108507768/180981096-42c15320-3906-4721-b007-b1b5b3717b4f.png)
 
 
 ### Coporate Taxation

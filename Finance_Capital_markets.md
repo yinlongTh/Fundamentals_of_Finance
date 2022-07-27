@@ -382,8 +382,7 @@ Capital EXP          60      0
 Ending Cash          50      100
 </pre>
 
-![download](https://user-images.githubusercontent.com/108507768/181161129-ea61aa2a-2bc7-467f-a1b1-e48df4a91836.jpg)
-
+![cash-flow-statement](https://user-images.githubusercontent.com/108507768/181163116-c763f024-4cf8-4985-ba3e-cf4397cef2dc.jpg)
 ________________________________________________
 ## Stocks and bonds	:dart:
 

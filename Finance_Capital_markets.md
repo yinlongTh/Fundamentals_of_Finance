@@ -333,14 +333,11 @@ Cash Account
 - Balance Sheet : Liability, Equity, Asset
 - Cash flow Statement : only see cash and account A.R. (Account Receivable) as negative, A.P. (Account Payable) as positive
 </pre>
-Without A.P.
+Without A.P.<br>
 ![CashFlowSt](https://user-images.githubusercontent.com/108507768/181155660-df9026fb-3467-4706-966b-854bc39dee64.png)
 
-With A.P.
+With A.P.<br>
 ![AP](https://user-images.githubusercontent.com/108507768/181156304-7741ef98-df45-4c21-8a2c-6ce2c452c4ed.png)
-
-![download](https://user-images.githubusercontent.com/108507768/181161129-ea61aa2a-2bc7-467f-a1b1-e48df4a91836.jpg)
-
 
 #### Fair Value Accounting
 Situation : Sheep land
@@ -385,10 +382,10 @@ Capital EXP          60      0
 Ending Cash          50      100
 </pre>
 
-
+![download](https://user-images.githubusercontent.com/108507768/181161129-ea61aa2a-2bc7-467f-a1b1-e48df4a91836.jpg)
 
 ________________________________________________
-## Stocks and bonds
+## Stocks and bonds	:dart:
 
 ________________________________________________
 ## Investment vehicles, insurance, and retirement

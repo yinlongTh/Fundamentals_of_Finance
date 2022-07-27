@@ -256,12 +256,136 @@ ________________________________________________
 
 ![3 1 5 t1](https://user-images.githubusercontent.com/108507768/180981096-42c15320-3906-4721-b007-b1b5b3717b4f.png)
 
+#### AMT : Alternative Minimum Tax
+The other way to calculate a person's Tax and cannot be deducted.
+<pre>
+If the person's Tax after the deduction is lower than AMT, <br>
+The person has to pay AMT for their Tax instead
+</pre>
+
+![3 3 1 t1](https://user-images.githubusercontent.com/108507768/181142274-34462e8e-f61c-46f6-aa97-f2cc3e94eacb.png)
+
+#### Estate Tax
+: Tax on someone estate or someone passed away leaved to another person
+<pre>
+As known as
+- Inheriance Tax
+- Death Tax
+</pre>
+Example :
+- Exempt for first $5m, 35% after that
+<pre>
+$6m -> Estate -> Daughter
+: Pay tax for $1m
+</pre>
 
 ### Coporate Taxation
+Coporation - Legal entity can act like a person
+- Limited Liability : Means If the Company runs properly, The company can only lose what it value, not people.
+- Share ownership
 
+
+#### Double Taxation
+- Does not happend with S-corp / LLC / LP / LLP #Small
+- C-corp #Large
+<pre>
+Situation :
+$1000 Profit
+30% Tax = $300
+$700 Net Income
+
+This Net Income is devided to shareholders, shareholders have to pay tax again as well. 
+</pre>
+
+#### Transfer Pricing and Tax Havens
+Example
+<pre>
+In ths US : Tax 35%
+Company in the state earns $1m
+In another small island : Tax 5%
+
+The US company pay their money to their small company in that small island to pay less tax.
+This seem great. But on the way transfer money back, the small company has to pay tax as well.
+</pre>
 
 ________________________________________________
 ## Accounting and financial statements
+
+#### Cash Accounting
+- Revenue : Money received from clients / Customers
+- Expense : Money spent for making Rev
+Cash Account
+
+![CashAccount](https://user-images.githubusercontent.com/108507768/181150991-c516492a-8af5-4f06-91d6-3495b1533e1c.png)
+
+#### Accrual Basis of Accounting
+: Account all the deals we have both cash and non-cash at a time
+- Account Receivable : Money people owe you
+
+![AccrualAccount](https://user-images.githubusercontent.com/108507768/181151855-d14043ca-74e2-4eec-aca5-e1deaa9a9955.png)
+
+#### Accrual vs Cash accounting
+- Accrual better reflect the company's plans / dedication 
+
+### 3 Core Statements
+<pre>
+- Income Statement : Rev, Exp, Net
+- Balance Sheet : Liability, Equity, Asset
+- Cash flow Statement : only see cash and account A.R. (Account Receivable) as negative, A.P. (Account Payable) as positive
+</pre>
+Without A.P.
+![CashFlowSt](https://user-images.githubusercontent.com/108507768/181155660-df9026fb-3467-4706-966b-854bc39dee64.png)
+
+With A.P.
+![AP](https://user-images.githubusercontent.com/108507768/181156304-7741ef98-df45-4c21-8a2c-6ce2c452c4ed.png)
+
+![download](https://user-images.githubusercontent.com/108507768/181161129-ea61aa2a-2bc7-467f-a1b1-e48df4a91836.jpg)
+
+
+#### Fair Value Accounting
+Situation : Sheep land
+<pre>
+<strong>Asset</strong>
+         Year 1   Year 2
+Sheep      1m      1.2m
+Land       1m      1.2m  (Historical Cost)
+           2m      1.9m  (Fair Value : Updated according to the markets) 
+</pre>
+
+#### Depreciation & Amortization
+Situation : 
+<pre>
+Year      1   2   3   4   5   6   7   8   9   10
+Rev      100 100 100 100 100 100 100 100 100  100
+Labor     50  50  50  50  50  50  50  50  50   50
+Truck     20  20  20  20  20  20  20  20  20   20
+Profit    30  30  30  30  30  30  30  30  30   30
+</pre>
+
+<pre>
+First we have 60k$
+Truck Life spend : 3 years
+Truck Cost : 60k
+
+If we account the truck cost 60k in the first year, The <strong>Income Statement</strong> would look very bad for that year.
+Depreciating spread 60k to 20k for 3 years instead.
+
+<strong>In Balance Sheet</strong>
+Asset truck : 60k Change to 40k 20k 0
+</pre>
+
+<strong>Cash flow Statement</strong>
+<pre>
+                   Year 1   Year 2
+Starting Cash        60      50
+Profit               30      30
+Depreciation         20      20
+Cash from Operation  50      50  (30+20) #We own the truck value
+Capital EXP          60      0
+Ending Cash          50      100
+</pre>
+
+
 
 ________________________________________________
 ## Stocks and bonds

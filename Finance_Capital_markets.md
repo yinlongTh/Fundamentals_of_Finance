@@ -378,13 +378,40 @@ Starting Cash        60      50
 Profit               30      30
 Depreciation         20      20
 Cash from Operation  50      50  (30+20) #We own the truck value
-Capital EXP          60      0
-Ending Cash          50      100
+Capital EXP          60       0
+Ending Cash          50     100
 </pre>
 
 ![cash-flow-statement](https://user-images.githubusercontent.com/108507768/181163116-c763f024-4cf8-4985-ba3e-cf4397cef2dc.jpg)
 ________________________________________________
 ## Stocks and bonds	:dart:
+<strong>Shares / Stock</strong>
+: Part owner of the company
+- Holders buy Equity
+
+<strong>Bonds</strong>
+: Part lender to the company
+- Holders buy Debt
+- Zero-coupon bond : Company doesn't pay the interest until they pays off the  whole loan
+
+<pre>
+Company X :
+Asset : $100m
+Liability : $80m
+Equity : $20m
+
+Has 2m shares -> Equity / # of Shares = $10 per share
+</pre>
+
+#### Shorting Stock
+Broker is holding a lot of stock of a company from many clients
+You want to rent an IBM's stock from the Broker
+<pre>
+When you rent the stock, you have to give all stock benefit like dividend to the real stock holder.
+You try to sell the stock at <strong>high price</strong>. And but IBM stock back to return to the Broker when you can buy <strong>low</strong>
+</pre>
+
+
 
 ________________________________________________
 ## Investment vehicles, insurance, and retirement

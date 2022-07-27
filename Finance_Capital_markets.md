@@ -411,7 +411,23 @@ When you rent the stock, you have to give all stock benefit like dividend to the
 You try to sell the stock at <strong>high price</strong>. And but IBM stock back to return to the Broker when you can buy <strong>low</strong>
 </pre>
 
+<pre>
+Shorthing Stock reduces the volatility both when <strong>shorting</strong> and <strong>covering</strong>
+</pre>
 
+<strong>Who effects stocks</strong>
+- Psitive : Company Managers, Financial Press, Self-side Analysts, Goverment
+- Scrutinize : Short Sellers
+
+#### Market Capitalization
+- Market Cap = # of Shares * Stock Price
+- The Market cap usually is higer than Company's actual Equity
+<pre>
+In the actual situation :
+Market Asset - Liability < Equity
+
+The asset calls <strong>Market Value Asset</strong>, not representing company Real Asset
+</pre>
 
 ________________________________________________
 ## Investment vehicles, insurance, and retirement

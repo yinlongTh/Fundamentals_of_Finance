@@ -429,6 +429,10 @@ Market Asset - Liability < Equity
 The asset calls <strong>Market Value Asset</strong>, not representing company Real Asset
 </pre>
 
+#### ROA
+Definition can be various some use Net Income, Some use EBIT, Some use Operating Income
+
+
 ________________________________________________
 ## Investment vehicles, insurance, and retirement
 
